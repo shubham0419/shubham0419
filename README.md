@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubham0419
-- 👀 I’m interested in designing,coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on c++,algorithum ,designing
+- 👀 I’m interested in designing,coding,web D
+- 💞️ I’m looking to collaborate on c++, algorithum, developing,designing
 - 📫 How to reach me ...email at shubham.e21@nsut.ac.in
 
 <!---
